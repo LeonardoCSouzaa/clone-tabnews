@@ -1,10 +1,10 @@
-function Home() {
+function Teste() {
   return (
     <>
-      <h1>teste</h1>
-      <p>teste2</p>
+      <h1>Leonardo test</h1>
+      <p>está é uma frase</p>
     </>
   );
 }
 
-export default Home;
+export default Teste;
